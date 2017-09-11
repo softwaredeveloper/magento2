@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/magento/magento2.svg?branch=master)](https://travis-ci.org/magento/magento2)
 
-Magento Community Edition is perfect if you’re a developer (http://www.phpfreelanceprogrammer.com/magento-programmer.html) who wants to build your own solution on a proven, flexible platform. You can modify the core code, and add features and new functionality on your own.
+Magento Community Edition is perfect if you’re a [Freelance Magento developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html) who wants to build your own solution on a proven, flexible platform. You can modify the core code, and add features and new functionality on your own.
 
 All Submissions you make to Magento, an eBay Inc. company (“Magento”) through GitHub are subject to the following terms and conditions:
 
